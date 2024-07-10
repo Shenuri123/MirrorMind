@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "10325023947",
+    "project_id": "mirrormind-fc4aa",
+    "storage_bucket": "mirrormind-fc4aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10325023947:android:de517b8480923393728f4e",
+        "android_client_info": {
+          "package_name": "com.example.mirrormind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10325023947-jeoqjest2te7repforv8llmbljck316r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mirrormind",
+            "certificate_hash": "4195180bf835ccec4e2cec5a2d5ad2f762e430b3"
+          }
+        },
+        {
+          "client_id": "10325023947-pda4pc8c1phcs0ua020g2mgpq97mi4pa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_E5589o3xRZjvw6Cre4R7WUsTTnCPIjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10325023947-2j16d4c9d5goftd2095jse0ulqhrlkg3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
